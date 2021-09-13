@@ -1,4 +1,4 @@
-# [Visti Site](https://githubfinder16112002.netlify.app/)
+# [Link to the Website](https://githubfinder16112002.netlify.app/)
 
 # Getting Started with Create React App
 
